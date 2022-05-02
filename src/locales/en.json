@@ -1,0 +1,14 @@
+{
+  "front.nav.home" : "Home",
+  "front.nav.aboutUs" : "About US",
+  "front.nav.blog" : "Blog",
+  "front.nav.shop" : "Shop",
+  "front.nav.contactUs" : "Contact Us",
+  "front.nav.english" : "English",
+  "front.nav.french" : "French",
+
+  "front.foot.header.aboutUs" : "About Us",
+  "front.foot.header.newsletter" : "Newsletter",
+  "front.foot.header.navigation" : "Navigation",
+  "front.foot.header.social" : "Social Share"
+}
